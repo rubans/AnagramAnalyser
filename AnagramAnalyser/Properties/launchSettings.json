@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AnagramAnalyser": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\ruban\\Desktop\\superawesome-code-challenge\\task\\data\\example1.txt"
+    }
+  }
+}
